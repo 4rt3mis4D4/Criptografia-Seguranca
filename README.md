@@ -60,8 +60,8 @@ Este repositório reúne estudos, experimentos e projetos práticos relacionados
 
 ## 👨‍🏫 Informações Acadêmicas
 
-* **Professor:** *[Nome do Professor]*
-* **Aluno:** *[Seu Nome]*
+* **Professor:** *Leandro Fabian Almeida Escobar*
+* **Aluno:** *Gabriela Pedroso*
 
 ---
 
